@@ -1,0 +1,10 @@
+{
+  "name": "build-wise",
+  "description": "An end-to-end development assistant that guides developers from requirements to implementation and testing",
+  "version": "1.0.0",
+  "author": {
+    "name": "Saliha Shahid"
+  },
+  "repository": "https://github.com/SalihaShahid/build-wise",
+  "license": "MIT"
+}
