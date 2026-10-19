@@ -136,10 +136,8 @@ Build-Wise also identifies how these tasks relate to each other.
 The generated tasks are structured so they can be transferred into tools such as:
 
 * ClickUp
-* Linear
 * Jira
 * GitHub Issues
-* Trello
 * Other task management systems
 
 The objective is to produce tasks that are clear enough to be picked up and implemented without having to rediscover the original requirements.
